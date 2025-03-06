@@ -584,8 +584,8 @@ export const contact: ContactSection = {
   items: [
     {
       type: ContactType.Email,
-      text: 'nguyengiatueman@gmail.com',
-      href: 'nguyengiatueman@gmail.com',
+      text: 'huong.eastwestwp@gmail.com',
+      href: 'huong.eastwestwp@gmail.com',
     },
     // {
     //   type: ContactType.Location,
