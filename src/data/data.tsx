@@ -561,7 +561,6 @@ export const testimonial: TestimonialSection = {
     {
       name: 'Brian H.',
       text: 'Working with this individual has been an exceptional experience. Her ability to tackle challenges with innovative solutions and maintain a positive attitude is truly inspiring. Highly recommend!',
-      // image: 'https://cloudflare-ipfs.com/ipfs/Qmd3W5DuhgHirLHGVixi6V76LhCkZUz6pnFt5AJBiyvHye/avatar/169.jpg',
     },
     {
       name: 'Jeff D.',
@@ -592,11 +591,11 @@ export const contact: ContactSection = {
     //   text: 'Hung Yen, Vietnam',
     //   href: 'https://www.google.ca/maps/place/',
     // },
-    // {
-    //   type: ContactType.Github,
-    //   text: 'webappguru',
-    //   href: 'https://github.com/webappguru',
-    // },
+    {
+      type: ContactType.Github,
+      text: 'Full-Stack Dev',
+      href: 'https://github.com/nh0xThi',
+    },
   ],
 };
 
@@ -604,7 +603,7 @@ export const contact: ContactSection = {
  * Social items
  */
 export const socialLinks: Social[] = [
-  // {label: 'Github', Icon: GithubIcon, href: 'https://github.com/'},
+  {label: 'Github', Icon: GithubIcon, href: 'https://github.com/nh0xThi'},
   // {label: 'Stack Overflow', Icon: StackOverflowIcon, href: 'https://stackoverflow.com/'},
   // {label: 'LinkedIn', Icon: LinkedInIcon, href: 'https://www.linkedin.com/'},
   // {label: 'Instagram', Icon: InstagramIcon, href: 'https://www.instagram.com/'},
