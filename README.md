@@ -1,7 +1,7 @@
 # Here I am
 I am a passionate Full Stack Developer with expertise in both front-end and back-end development, specializing in AI integration. I enjoy creating seamless, user-friendly applications while implementing robust server-side solutions enhanced with artificial intelligence capabilities.
 
-/* ![Huong](resume-screenshot.jpg) */
+
 
 ## Skills
 
